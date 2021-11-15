@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I love all kinds of programming languages. **lisp** is a classic and **perl** is a favorite.
