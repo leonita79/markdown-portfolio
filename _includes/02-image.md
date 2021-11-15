@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![pro git book](https://git-scm.com/images/progit2.png)
